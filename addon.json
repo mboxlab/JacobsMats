@@ -1,0 +1,11 @@
+{
+	"title"		:	"[JacobsRose] PBR Builders Material Pack",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "realism", "build" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}

@@ -20,3 +20,5 @@ list.Add( "OverrideMaterials", "jacobsrose/metal/021/pbr" )
 list.Add( "OverrideMaterials", "jacobsrose/metal/006/pbr" )
 list.Add( "OverrideMaterials", "jacobsrose/metal/010/pbr" )
 list.Add( "OverrideMaterials", "jacobsrose/metal/044a/pbr" )
+
+list.Add( "OverrideMaterials", "jacobsrose/wood/008/pbr" )
