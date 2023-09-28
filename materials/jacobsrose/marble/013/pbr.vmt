@@ -1,0 +1,9 @@
+PBR
+{
+        $basetexture      "jacobsrose/marble/013/albedo"
+        $mraotexture      "jacobsrose/marble/013/albedo"
+
+        $envmap           "env_cubemap"
+        $surfaceprop      "rock"
+        $model            1
+}

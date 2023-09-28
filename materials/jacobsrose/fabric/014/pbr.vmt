@@ -1,0 +1,10 @@
+PBR
+{
+        $basetexture      "jacobsrose/fabric/014/albedo"
+        $bumpmap          "jacobsrose/fabric/014/normal"
+        $mraotexture      "jacobsrose/fabric/014/mrao"
+
+        $envmap           "env_cubemap"
+        $surfaceprop      "cloth"
+        $model            1
+}
