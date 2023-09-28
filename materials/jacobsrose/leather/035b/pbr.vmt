@@ -1,0 +1,11 @@
+PBR
+{
+        $basetexture      "jacobsrose/leather/035b/albedo"
+        $bumpmap          "jacobsrose/leather/035b/normal"
+        $mraotexture      "jacobsrose/leather/035b/mrao"
+
+
+        $envmap           "env_cubemap"
+        $surfaceprop      "rubber"
+        $model            1
+}
